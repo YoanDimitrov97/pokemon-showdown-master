@@ -1,6 +1,6 @@
 export const FormatsData: { [k: string]: SpeciesFormatsData } = {
 	luffy: {
-		isNonstandard: "OP",
-		tier: "OP",
+		isNonstandard: "CAP",
+		tier: "CAP",
 	},
 };
