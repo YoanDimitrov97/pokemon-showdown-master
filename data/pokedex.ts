@@ -19314,7 +19314,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		gen: 5,
 	},
 	luffy: {
-		num: -72,
+		num: -73,
 		name: "Luffy",
 		types: ["Fighting"],
 		gender: "M",
