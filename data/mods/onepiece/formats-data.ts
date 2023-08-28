@@ -3,4 +3,8 @@ export const FormatsData: { [k: string]: SpeciesFormatsData } = {
 		isNonstandard: "CAP",
 		tier: "CAP",
 	},
+	zoro: {
+		isNonstandard: "CAP",
+		tier: "CAP",
+	},
 };
