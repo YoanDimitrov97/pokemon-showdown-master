@@ -1429,7 +1429,7 @@ export const FormatsData: { [k: string]: SpeciesFormatsData } = {
 		tier: "NFE",
 	},
 	azumarill: {
-		tier: "OU",
+		tier: "UUBL",
 		doublesTier: "DUU",
 		natDexTier: "RU",
 	},
@@ -3576,7 +3576,7 @@ export const FormatsData: { [k: string]: SpeciesFormatsData } = {
 		tier: "LC",
 	},
 	amoonguss: {
-		tier: "OU",
+		tier: "UUBL",
 		doublesTier: "DOU",
 		natDexTier: "RU",
 	},
