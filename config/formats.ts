@@ -25,10 +25,11 @@ export const Formats: FormatList = [
 		section: "S/V Singles",
 	},
 	{
-		name: "[Gen PK] OP",
+		name: "[Gen 9] OP",
+
 		mod: "gen9",
-		ruleset: ["[Gen 9] OU"],
-		banlist: ["OU", "UUBL"],
+		ruleset: ["[Gen 9] OU", "+CAP"],
+		banlist: ["Crucibellite"],
 	},
 	{
 		name: "[Gen 9] Random Battle",
@@ -448,13 +449,6 @@ export const Formats: FormatList = [
 			"Wingull",
 			"Zorua-Hisui",
 		],
-	},
-	{
-		name: "[Gen 9] CAP",
-
-		mod: "gen9",
-		ruleset: ["[Gen 9] OU", "+CAP"],
-		banlist: ["Crucibellite"],
 	},
 	{
 		name: "[Gen 9] Free-For-All",
