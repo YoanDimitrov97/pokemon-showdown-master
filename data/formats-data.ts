@@ -1,8 +1,4 @@
 export const FormatsData: { [k: string]: SpeciesFormatsData } = {
-	luffy: {
-		isNonstandard: "CAP",
-		tier: "CAP",
-	},
 	bulbasaur: {
 		isNonstandard: "Past",
 		tier: "Illegal",
@@ -5853,7 +5849,7 @@ export const FormatsData: { [k: string]: SpeciesFormatsData } = {
 		isNonstandard: "Custom",
 		tier: "Illegal",
 	},
-	/*syclar: {
+	syclar: {
 		isNonstandard: "CAP",
 		tier: "CAP LC",
 	},
@@ -6144,7 +6140,7 @@ export const FormatsData: { [k: string]: SpeciesFormatsData } = {
 	hemogoblin: {
 		isNonstandard: "CAP",
 		tier: "CAP",
-	},*/
+	},
 	pokestarsmeargle: {
 		isNonstandard: "Custom",
 		tier: "Illegal",
