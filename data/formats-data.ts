@@ -1,4 +1,7 @@
 export const FormatsData: { [k: string]: SpeciesFormatsData } = {
+	luffy: {
+		tier:"OU",	
+	},
 	bulbasaur: {
 		isNonstandard: "Past",
 		tier: "Illegal",
