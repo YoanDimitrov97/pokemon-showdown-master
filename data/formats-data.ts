@@ -4,7 +4,7 @@ export const FormatsData: { [k: string]: SpeciesFormatsData } = {
 		doublesTier: "(DUU)",
 		natDexTier: "OU",
 	},
-	/*bulbasaur: {
+	bulbasaur: {
 		isNonstandard: "Past",
 		tier: "Illegal",
 		natDexTier: "LC",
@@ -6221,5 +6221,5 @@ export const FormatsData: { [k: string]: SpeciesFormatsData } = {
 	pokestarufopropu2: {
 		isNonstandard: "Custom",
 		tier: "Illegal",
-	},*/
+	},
 };
