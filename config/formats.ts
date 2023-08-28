@@ -26,27 +26,9 @@ export const Formats: FormatList = [
 	},
 	{
 		name: "[Gen PK] OP",
-		threads: [
-			`&bullet; <a href="https://www.smogon.com/forums/threads/3710915/">SV OU Metagame Discussion</a>`,
-			`&bullet; <a href="https://www.smogon.com/forums/threads/3712513/">SV OU Sample Teams</a>`,
-			`&bullet; <a href="https://www.smogon.com/forums/threads/3712493/">SV OU Viability Rankings</a>`,
-		],
-
 		mod: "gen9",
-		ruleset: ["Standard"],
-		banlist: [
-			"Uber",
-			"AG",
-			"Arena Trap",
-			"Moody",
-			"Sand Veil",
-			"Shadow Tag",
-			"Snow Cloak",
-			"King's Rock",
-			"Baton Pass",
-			"Last Respects",
-			"Shed Tail",
-		],
+		ruleset: ["[Gen 9] OU"],
+		banlist: ["OU", "UUBL"],
 	},
 	{
 		name: "[Gen 9] Random Battle",
