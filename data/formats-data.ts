@@ -1,7 +1,10 @@
 export const FormatsData: { [k: string]: SpeciesFormatsData } = {
 	luffy: {
-		isNonstandard: "CAP",
-		tier: "CAP",
+		// isNonstandard: "CAP",
+		// tier: "CAP",
+		tier: "OU",
+		doublesTier: "(DUU)",
+		natDexTier: "OU",
 	},
 	bulbasaur: {
 		isNonstandard: "Past",
