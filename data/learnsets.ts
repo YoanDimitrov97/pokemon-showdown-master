@@ -100,6 +100,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			defog: ["9L1"],
 			hurricane: ["9L1"],
 			flash: ["9L1"],
+			nastyplot: ["9L1"],
 		},
 	},
 	sanji: {
@@ -120,7 +121,6 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			flamecharge: ["9L1"],
 			blazingtorque: ["9L1"],
 			flareblitz: ["9L1"],
-			powdersnow: ["9L1"],
 			willowisp: ["9L1"],
 			firespin: ["9L1"],
 			heatcrash: ["9L1"],
