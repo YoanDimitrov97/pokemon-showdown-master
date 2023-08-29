@@ -19319,7 +19319,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		types: ["Fighting"],
 		gender: "M",
 		baseStats: { hp: 102, atk: 120, def: 110, spa: 60, spd: 70, spe: 108 },
-		abilities: { 0: "Iron Fist" },
+		abilities: { 0: "Guts", H: "Sheer Force" },
 		heightm: 1.74,
 		weightkg: 70,
 		color: "Red",
@@ -19340,7 +19340,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		gen: 9,
 	},
 	nami: {
-		num: 1013,
+		num: -72,
 		name: "Nami",
 		types: ["Flying", "Electric"],
 		gender: "F",
