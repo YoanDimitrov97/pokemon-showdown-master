@@ -19352,4 +19352,17 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered"],
 		gen: 9,
 	},
+	sanji: {
+		num: 1014,
+		name: "Sanji",
+		types: ["Fire", "Fighting"],
+		gender: "M",
+		baseStats: { hp: 80, atk: 105, def: 95, spa: 80, spd: 80, spe: 110 },
+		abilities: { 0: "Blaze", 1: "Speed Boost" },
+		heightm: 1.78,
+		weightkg: 68,
+		color: "Black",
+		eggGroups: ["Undiscovered"],
+		gen: 9,
+	},
 };

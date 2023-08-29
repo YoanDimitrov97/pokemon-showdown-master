@@ -20,6 +20,13 @@ export const FormatsData: { [k: string]: SpeciesFormatsData } = {
 		doublesTier: "(DUU)",
 		natDexTier: "OU",
 	},
+	sanji: {
+		// isNonstandard: "CAP",
+		// tier: "CAP",
+		tier: "OU",
+		doublesTier: "(DUU)",
+		natDexTier: "OU",
+	},
 	bulbasaur: {
 		isNonstandard: "Past",
 		tier: "Illegal",
