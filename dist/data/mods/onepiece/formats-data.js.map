@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../data/mods/onepiece/formats-data.ts"],
+  "sourcesContent": ["export const FormatsData: { [k: string]: SpeciesFormatsData } = {\n\tluffy: {\n\t\tisNonstandard: \"CAP\",\n\t\ttier: \"CAP\",\n\t},\n\tzoro: {\n\t\tisNonstandard: \"CAP\",\n\t\ttier: \"CAP\",\n\t},\n};\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAO,MAAM,cAAmD;AAAA,EAC/D,OAAO;AAAA,IACN,eAAe;AAAA,IACf,MAAM;AAAA,EACP;AAAA,EACA,MAAM;AAAA,IACL,eAAe;AAAA,IACf,MAAM;AAAA,EACP;AACD;",
+  "names": []
+}

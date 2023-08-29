@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../data/mods/onepiece/pokedex.ts"],
+  "sourcesContent": ["export const Pokedex: { [speciesid: string]: SpeciesData } = {\n\tluffy: {\n\t\tnum: 9000,\n\t\tname: \"Luffy\",\n\t\ttypes: [\"Fighting\"],\n\t\tgender: \"M\",\n\t\tbaseStats: { hp: 102, atk: 120, def: 110, spa: 60, spd: 70, spe: 108 },\n\t\tabilities: { 0: \"Iron Fist\" },\n\t\theightm: 1.74,\n\t\tweightkg: 70,\n\t\tcolor: \"Red\",\n\t\teggGroups: [\"Undiscovered\"],\n\t\tgen: 9,\n\t},\n\tzoro: {\n\t\tnum: 9001,\n\t\tname: \"Zoro\",\n\t\ttypes: [\"Steel\"],\n\t\tgender: \"M\",\n\t\tbaseStats: { hp: 102, atk: 120, def: 110, spa: 60, spd: 70, spe: 108 },\n\t\tabilities: { 0: \"Iron Fist\" },\n\t\theightm: 1.74,\n\t\tweightkg: 70,\n\t\tcolor: \"Red\",\n\t\teggGroups: [\"Undiscovered\"],\n\t\tgen: 9,\n\t},\n};\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAO,MAAM,UAAgD;AAAA,EAC5D,OAAO;AAAA,IACN,KAAK;AAAA,IACL,MAAM;AAAA,IACN,OAAO,CAAC,UAAU;AAAA,IAClB,QAAQ;AAAA,IACR,WAAW,EAAE,IAAI,KAAK,KAAK,KAAK,KAAK,KAAK,KAAK,IAAI,KAAK,IAAI,KAAK,IAAI;AAAA,IACrE,WAAW,EAAE,GAAG,YAAY;AAAA,IAC5B,SAAS;AAAA,IACT,UAAU;AAAA,IACV,OAAO;AAAA,IACP,WAAW,CAAC,cAAc;AAAA,IAC1B,KAAK;AAAA,EACN;AAAA,EACA,MAAM;AAAA,IACL,KAAK;AAAA,IACL,MAAM;AAAA,IACN,OAAO,CAAC,OAAO;AAAA,IACf,QAAQ;AAAA,IACR,WAAW,EAAE,IAAI,KAAK,KAAK,KAAK,KAAK,KAAK,KAAK,IAAI,KAAK,IAAI,KAAK,IAAI;AAAA,IACrE,WAAW,EAAE,GAAG,YAAY;AAAA,IAC5B,SAAS;AAAA,IACT,UAAU;AAAA,IACV,OAAO;AAAA,IACP,WAAW,CAAC,cAAc;AAAA,IAC1B,KAAK;AAAA,EACN;AACD;",
+  "names": []
+}

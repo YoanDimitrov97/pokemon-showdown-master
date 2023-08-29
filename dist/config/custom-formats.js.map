@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../config/custom-formats.ts"],
+  "sourcesContent": ["export const Formats: FormatList = [\r\n\t{\r\n\t\tsection: \"One Piece Tier\",\r\n\t},\r\n\t{\r\n\t\tname: \"[Gen X] OP\",\r\n\t\tthreads: [\r\n\t\t\t`&bullet; <a href=\"https://www.smogon.com/forums/threads/3710915/\">SV OU Metagame Discussion</a>`,\r\n\t\t\t`&bullet; <a href=\"https://www.smogon.com/forums/threads/3712513/\">SV OU Sample Teams</a>`,\r\n\t\t\t`&bullet; <a href=\"https://www.smogon.com/forums/threads/3712493/\">SV OU Viability Rankings</a>`,\r\n\t\t],\r\n\r\n\t\tmod: \"gen9\",\r\n\t\truleset: [\"Standard\"],\r\n\t\tbanlist: [\r\n\t\t\t\"Uber\",\r\n\t\t\t\"AG\",\r\n\t\t\t\"Arena Trap\",\r\n\t\t\t\"Moody\",\r\n\t\t\t\"Sand Veil\",\r\n\t\t\t\"Shadow Tag\",\r\n\t\t\t\"Snow Cloak\",\r\n\t\t\t\"King's Rock\",\r\n\t\t\t\"Baton Pass\",\r\n\t\t\t\"Last Respects\",\r\n\t\t\t\"Shed Tail\",\r\n\t\t],\r\n\t},\r\n];\r\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAO,MAAM,UAAsB;AAAA,EAClC;AAAA,IACC,SAAS;AAAA,EACV;AAAA,EACA;AAAA,IACC,MAAM;AAAA,IACN,SAAS;AAAA,MACR;AAAA,MACA;AAAA,MACA;AAAA,IACD;AAAA,IAEA,KAAK;AAAA,IACL,SAAS,CAAC,UAAU;AAAA,IACpB,SAAS;AAAA,MACR;AAAA,MACA;AAAA,MACA;AAAA,MACA;AAAA,MACA;AAAA,MACA;AAAA,MACA;AAAA,MACA;AAAA,MACA;AAAA,MACA;AAAA,MACA;AAAA,IACD;AAAA,EACD;AACD;",
+  "names": []
+}
