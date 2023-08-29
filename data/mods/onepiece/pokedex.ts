@@ -12,7 +12,7 @@ export const Pokedex: { [speciesid: string]: SpeciesData } = {
 		eggGroups: ["Undiscovered"],
 		gen: 9,
 	},
-	Zoro: {
+	zoro: {
 		num: 9001,
 		name: "Zoro",
 		types: ["Steel"],
