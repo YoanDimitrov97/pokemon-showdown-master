@@ -1436,7 +1436,7 @@ export const FormatsData: { [k: string]: SpeciesFormatsData } = {
 		tier: "NFE",
 	},
 	azumarill: {
-		tier: "UUBL",
+		tier: "RUBL",
 		doublesTier: "DUU",
 		natDexTier: "RU",
 	},
@@ -3329,7 +3329,7 @@ export const FormatsData: { [k: string]: SpeciesFormatsData } = {
 		natDexTier: "RU",
 	},
 	lilliganthisui: {
-		tier: "UUBL",
+		tier: "RUBL",
 		doublesTier: "(DUU)",
 		natDexTier: "RUBL",
 	},
@@ -3583,7 +3583,7 @@ export const FormatsData: { [k: string]: SpeciesFormatsData } = {
 		tier: "LC",
 	},
 	amoonguss: {
-		tier: "UUBL",
+		tier: "RUBL",
 		doublesTier: "DOU",
 		natDexTier: "RU",
 	},
@@ -5746,7 +5746,7 @@ export const FormatsData: { [k: string]: SpeciesFormatsData } = {
 		natDexTier: "UU",
 	},
 	ironhands: {
-		tier: "UUBL",
+		tier: "RUBL",
 		doublesTier: "DOU",
 		natDexTier: "UU",
 	},
