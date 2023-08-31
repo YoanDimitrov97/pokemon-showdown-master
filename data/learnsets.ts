@@ -29,7 +29,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			suckerpunch: ["9L1"],
 			bulkup: ["9L1"],
 			recover: ["9L1"],
-			bellydrum: ["9L1"],
+			leer: ["9L1"],
 			detect: ["9L1"],
 			counter: ["9L1"],
 			strength: ["9L1"],
