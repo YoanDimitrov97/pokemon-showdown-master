@@ -54,7 +54,6 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			sacredsword: ["9L1"],
 			secretsword: ["9L1"],
 			knockoff: ["9L1"],
-			sleeptalk: ["9L1"],
 			substitute: ["9L1"],
 			bulkup: ["9L1"],
 			bitterblade: ["9L1"],
