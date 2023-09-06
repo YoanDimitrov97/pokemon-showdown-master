@@ -1,28 +1,30 @@
 export const FormatsData: { [k: string]: SpeciesFormatsData } = {
 	luffy: {
-		// isNonstandard: "CAP",
-		// tier: "CAP",
 		tier: "OU",
 		doublesTier: "(DUU)",
 		natDexTier: "OU",
 	},
 	zoro: {
-		// isNonstandard: "CAP",
-		// tier: "CAP",
 		tier: "OU",
 		doublesTier: "(DUU)",
 		natDexTier: "OU",
 	},
 	nami: {
-		// isNonstandard: "CAP",
-		// tier: "CAP",
 		tier: "OU",
 		doublesTier: "(DUU)",
 		natDexTier: "OU",
 	},
 	sanji: {
-		// isNonstandard: "CAP",
-		// tier: "CAP",
+		tier: "OU",
+		doublesTier: "(DUU)",
+		natDexTier: "OU",
+	},
+	usopp: {
+		tier: "OU",
+		doublesTier: "(DUU)",
+		natDexTier: "OU",
+	},
+	chopper: {
 		tier: "OU",
 		doublesTier: "(DUU)",
 		natDexTier: "OU",
