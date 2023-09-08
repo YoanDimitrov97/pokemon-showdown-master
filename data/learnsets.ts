@@ -359,7 +359,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			glaciallance: ["9L1"],
 			explosion: ["9L1"],
 			selfdestruct: ["9L1"],
-			stealthrocks: ["9L1"],
+			stealthrock: ["9L1"],
 			spikes: ["9L1"],
 			toxicspikes: ["9L1"],
 			toxic: ["9L1"],
