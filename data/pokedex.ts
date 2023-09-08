@@ -19511,7 +19511,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	caribou: {
 		num: 1026,
 		name: "Caribou",
-		types: ["Ground"],
+		types: ["Ground", "Water"],
 		gender: "M",
 		baseStats: { hp: 100, atk: 70, def: 75, spa: 95, spd: 120, spe: 70 },
 		abilities: { 0: "Sand Stream", 1: "Earth Eater"},
