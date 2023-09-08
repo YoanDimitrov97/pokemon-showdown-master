@@ -129,6 +129,11 @@ export const FormatsData: { [k: string]: SpeciesFormatsData } = {
 		doublesTier: "(DUU)",
 		natDexTier: "OU",
 	},
+	ace: {
+		tier: "OU",
+		doublesTier: "(DUU)",
+		natDexTier: "OU",
+	},
 	marco: {
 		tier: "OU",
 		doublesTier: "(DUU)",
@@ -160,11 +165,6 @@ export const FormatsData: { [k: string]: SpeciesFormatsData } = {
 		natDexTier: "OU",
 	},
 	akainu: {
-		tier: "OU",
-		doublesTier: "(DUU)",
-		natDexTier: "OU",
-	},
-	ace: {
 		tier: "OU",
 		doublesTier: "(DUU)",
 		natDexTier: "OU",
