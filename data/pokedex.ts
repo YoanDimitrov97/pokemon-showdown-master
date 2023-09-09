@@ -19820,4 +19820,17 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered"],
 		gen: 9,
 	},
+	urouge: {
+		num: 1050,
+		name: "Urouge",
+		types: ["Rock", "Fighting"],
+		gender: "M",
+		baseStats: { hp: 96, atk: 122, def: 108, spa: 60, spd: 81, spe: 72 },
+		abilities: { 0: "Solid Rock", 1: "Rock Head" },
+		heightm: 4.98,
+		weightkg: 156,
+		color: "Brown",
+		eggGroups: ["Undiscovered"],
+		gen: 9,
+	},
 };

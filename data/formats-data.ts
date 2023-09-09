@@ -194,6 +194,11 @@ export const FormatsData: { [k: string]: SpeciesFormatsData } = {
 		doublesTier: "(DUU)",
 		natDexTier: "OU",
 	},
+	urouge: {
+		tier: "OU",
+		doublesTier: "(DUU)",
+		natDexTier: "OU",
+	},
 	bulbasaur: {
 		isNonstandard: "Past",
 		tier: "Illegal",
