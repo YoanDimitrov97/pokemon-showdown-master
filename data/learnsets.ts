@@ -1074,6 +1074,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			hyperbeam: ["9L1"],
 			solarbeam: ["9L1"],
 			flashcannon: ["9L1"],
+			reflect: ["9L1"],
 		},
 	},
 	akainu: {
