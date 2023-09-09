@@ -180,6 +180,13 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			snipeshot: ["9L1"],
 			partingshot: ["9L1"],
 			eeriespell: ["9L1"],
+			strugglebug: ["9L1"],
+			pounce: ["9L1"],
+			pollenpuff: ["9L1"],
+			uturn: ["9L1"],
+			firespin: ["9L1"],
+			ember: ["9L1"],
+			fireblast: ["9L1"],
 		},
 	},
 	chopper: {

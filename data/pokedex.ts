@@ -19368,7 +19368,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	usopp: {
 		num: 1015,
 		name: "Usopp",
-		types: ["Poison", "Grass"],
+		types: ["Grass", "Bug"],
 		gender: "M",
 		baseStats: { hp: 88, atk: 100, def: 80, spa: 90, spd: 80, spe: 100 },
 		abilities: { 0: "Sniper", 1: "Skill Link" },
