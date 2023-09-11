@@ -21613,7 +21613,7 @@ export const Moves: {[moveid: string]: MoveData} = {
 		name: "Red Hawk",
 		pp: 15,
 		priority: 0,
-		shortDesc:"20% chance to burn the target."
+		shortDesc:"20% chance to burn the target.",
 		flags: {contact: 1, protect: 1, mirror: 1, punch: 1},
 		secondary: {
 			chance: 20,
