@@ -21613,6 +21613,7 @@ export const Moves: {[moveid: string]: MoveData} = {
 		name: "Red Hawk",
 		pp: 15,
 		priority: 0,
+		shortDesc:"20% chance to burn the target."
 		flags: {contact: 1, protect: 1, mirror: 1, punch: 1},
 		secondary: {
 			chance: 20,
@@ -21627,6 +21628,7 @@ export const Moves: {[moveid: string]: MoveData} = {
 		accuracy: 100,
 		basePower: 40,
 		category: "Physical",
+		shortDesc: "Usually goes first.",
 		name: "Oni Giri",
 		pp: 30,
 		priority: 1,
@@ -21641,6 +21643,7 @@ export const Moves: {[moveid: string]: MoveData} = {
 		accuracy: 90,
 		basePower: 80,
 		category: "Special",
+		shortDesc:"Traps and damages the target for 4-5 turns.",
 		name: "White Out",
 		pp: 5,
 		priority: 0,
