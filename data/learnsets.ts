@@ -38,6 +38,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			shiftgear: ["9L1"],
 			drumbeating: ["9L1"],
 			morningsun: ["9L1"],
+			redhawk: ["9L1"],
 		},
 	},
 	zoro: {
@@ -65,6 +66,9 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			sleeptalk: ["9L1"],
 			endure: ["9L1"],
 			protect: ["9L1"],
+			spikes: ["9L1"],
+			ceaselessedge: ["9L1"],
+			onigiri: ["9L1"],
 		},
 	},
 	nami: {
@@ -293,6 +297,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			twinbeam: ["9L1"],
 			armorcannon: ["9L1"],
 			protect: ["9L1"],
+			substitute: ["9L1"],
 		},
 	},
 	brook: {
@@ -394,6 +399,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			sludgebomb: ["9L1"],
 			smog: ["9L1"],
 			protect: ["9L1"],
+			knockoff: ["9L1"],
 		},
 	},
 	vivi: {
@@ -733,6 +739,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			megapunch: ["9L1"],
 			block: ["9L1"],
 			fakeout: ["9L1"],
+			knockoff: ["9L1"],
 		},
 	},
 	crocodile: {
@@ -792,6 +799,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			electroweb: ["9L1"],
 			overheat: ["9L1"],
 			fierywrath: ["9L1"],
+			uturn: ["9L1"],
 		},
 	},
 	mihawk: {
@@ -916,7 +924,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			flamethrower: ["9L1"],
 			flareblitz: ["9L1"],
 			heatwave: ["9L1"],
-			incinirate: ["9L1"],
+			incinerate: ["9L1"],
 			inferno: ["9L1"],
 			mysticalfire: ["9L1"],
 			overheat: ["9L1"],
@@ -1050,6 +1058,8 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			crosschop: ["9L1"],
 			triplearrows: ["9L1"],
 			freezingglare: ["9L1"],
+			payback: ["9L1"],
+			kowtowcleave: ["9L1"],
 		},
 	},
 	kizaru: {
@@ -1074,7 +1084,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			hyperbeam: ["9L1"],
 			solarbeam: ["9L1"],
 			flashcannon: ["9L1"],
-			reflect: ["9L1"],
+			uturn: ["9L1"],
 		},
 	},
 	akainu: {
