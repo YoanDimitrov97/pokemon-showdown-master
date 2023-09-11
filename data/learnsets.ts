@@ -976,6 +976,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			sludgebomb: ["9L1"],
 			sludgewave: ["9L1"],
 			rocksmash: ["9L1"],
+			whiteout: ["9L1"],
 		},
 	},
 	coby: {
