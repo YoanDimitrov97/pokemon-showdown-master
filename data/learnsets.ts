@@ -7,7 +7,6 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			icepunch: ["9L1"],
 			superpower: ["9L1"],
 			poweruppunch: ["9L1"],
-			firepunch: ["9L1"],
 			thunderpunch: ["9L1"],
 			bulletpunch: ["9L1"],
 			seismictoss: ["9L1"],
@@ -492,6 +491,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			rocksmash: ["9L1"],
 			lowkick: ["9L1"],
 			dragondarts: ["9L1"],
+			sharkdarts: ["9L1"],
 		},
 	},
 	hodyjones: {
@@ -1021,7 +1021,6 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			beatup: ["9L1"],
 			bite: ["9L1"],
 			crunch: ["9L1"],
-			darkestlariat: ["9L1"],
 			foulplay: ["9L1"],
 			honeclaws: ["9L1"],
 			slash: ["9L1"],
@@ -1029,6 +1028,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			throatchop: ["9L1"],
 			leer: ["9L1"],
 			growl: ["9L1"],
+			rokuogan: ["9L1"],
 		},
 	},
 	aokiji: {
