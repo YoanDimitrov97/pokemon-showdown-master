@@ -23742,7 +23742,7 @@ export const Moves: { [moveid: string]: MoveData } = {
 		basePower: 110,
 		category: "Special",
 		name: "Fire Fist",
-		shortDesc: "Traps and damages the target for 4-5 turns.",
+		shortDesc: "Uses Attack or Special Attack stat, whichever is higher. This can also destroy Light Screen and Reflect.",
 		pp: 10,
 		priority: 0,
 		flags: { punch: 1, contact: 1, protect: 1, mirror: 1 },
