@@ -464,6 +464,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			bite: ["9L1"],
 			crunch: ["9L1"],
 			hyperfang: ["9L1"],
+			auroraveil: ["9L1"],
 		},
 	},
 	arlong: {
@@ -828,7 +829,6 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			curse: ["9L1"],
 			extrasensory: ["9L1"],
 			detect: ["9L1"],
-			extremespeed: ["9L1"],
 		},
 	},
 	enel: {
@@ -931,9 +931,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			pyroball: ["9L1"],
 			sunnyday: ["9L1"],
 			willowisp: ["9L1"],
-			armorcannon: ["9L1"],
 			blazekick: ["9L1"],
-			ragingfury: ["9L1"],
 			vcreate: ["9L1"],
 			memento: ["9L1"],
 			finalgambit: ["9L1"],
@@ -943,6 +941,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			lowsweep: ["9L1"],
 			noretreat: ["9L1"],
 			rocksmash: ["9L1"],
+			firefist: ["9L1"],
 		},
 	},
 	smoker: {
@@ -1117,6 +1116,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			steameruption: ["9L1"],
 			hydrosteam: ["9L1"],
 			infernalparade: ["9L1"],
+			hellhound: ["9L1"],
 		},
 	},
 	shiki: {
