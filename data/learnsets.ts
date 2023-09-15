@@ -143,6 +143,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			rockclimb: ["9L1"],
 			rocksmash: ["9L1"],
 			strength: ["9L1"],
+			diablejambe: ["9L1"],
 		},
 	},
 	usopp: {
@@ -580,6 +581,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			torchsong: ["9L1"],
 			uproar: ["9L1"],
 			taunt: ["9L1"],
+			scraaatch: ["9L1"],
 		},
 	},
 	xdrake: {
