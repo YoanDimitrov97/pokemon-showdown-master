@@ -181,5 +181,967 @@
         "teraTypes": ["Steel", "Ghost"]
       }
     ]
+  },
+  "blackbeard": {
+    "level": 100,
+    "sets": [
+      {
+        "role": "Bulky Support",
+        "movepool": [
+          "Earthquake",
+          "Knock Off",
+          "Recover",
+          "Ruination",
+          "Dire Claw",
+          "Foul Play",
+          "Body Slam"
+        ],
+        "teraTypes": ["Ghost"]
+      },
+      {
+        "role": "AV Pivot",
+        "movepool": [
+          "Earthquake",
+          "Knock Off",
+          "Dire Claw",
+          "Flash Cannon",
+          "Wicked Blow",
+          "Body Slam",
+          "Fake Out",
+          "Foul Play"
+        ],
+        "teraTypes": ["Ghost"]
+      },
+      {
+        "role": "Bulky Setup",
+        "movepool": [
+          "Nasty Plot",
+          "Recover",
+          "Earth Power",
+          "Dark Pulse",
+          "Night Shade"
+        ],
+        "teraTypes": ["Ghost"]
+      }
+    ]
+  },
+  "brook": {
+    "level": 100,
+    "sets": [
+      {
+        "role": "Setup Sweeper",
+        "movepool": [
+          "Ice Shard",
+          "Ice Spinner",
+          "Knock Off",
+          "Shadow Sneak",
+          "Swords Dance",
+          "Spirit Shackle"
+        ],
+        "teraTypes": ["Ghost", "Dark"]
+      },
+      {
+        "role": "Fast Support",
+        "movepool": [
+          "Ice Shard",
+          "Ice Spinner",
+          "Knock Off",
+          "Shadow Sneak",
+          "Swords Dance",
+          "Spirit Shackle",
+          "Destiny Bond",
+          "Memento"
+        ],
+        "teraTypes": ["Ghost", "Dark"]
+      }
+    ]
+  },
+  "buggy": {
+    "level": 100,
+    "sets": [
+      {
+        "role": "Fast Support",
+        "movepool": [
+          "Recover",
+          "Protect",
+          "Spikes",
+          "Toxic",
+          "Switcheroo",
+          "Memento",
+          "Knock Off",
+          "Encore",
+          "Pain Split",
+          "Substitute"
+        ],
+        "teraTypes": ["Steel", "Fighting"]
+      }
+    ]
+  },
+  "caribou": {
+    "level": 100,
+    "sets": [
+      {
+        "role": "Bulky Support",
+        "movepool": [
+          "Toxic",
+          "Taunt",
+          "Shore Up",
+          "Protect",
+          "Encore",
+          "Earth Power",
+          "Chilling Water"
+        ],
+        "teraTypes": ["Poison", "Steel"]
+      }
+    ]
+  },
+  "chopper": {
+    "level": 100,
+    "sets": [
+      {
+        "role": "Bulky Support",
+        "movepool": [
+          "Yawn",
+          "Slack Off",
+          "Heal Bell",
+          "Healing Wish",
+          "Body Slam",
+          "Horn Leech"
+        ],
+        "teraTypes": ["Ghost"]
+      },
+      {
+        "role": "Bulky Setup",
+        "movepool": [
+          "Substitute",
+          "Slack Off",
+          "Megahorn",
+          "Quick Attack",
+          "Body Slam",
+          "Horn Leech"
+        ],
+        "teraTypes": ["Ghost"]
+      }
+    ]
+  },
+  "coby": {
+    "level": 100,
+    "sets": [
+      {
+        "role": "Fast Attacker",
+        "movepool": [
+          "Aqua Jet",
+          "Close Combat",
+          "Drain Punch",
+          "Fire Punch",
+          "Play Rough",
+          "Thunder Punch"
+        ],
+        "teraTypes": ["Steel"]
+      }
+    ]
+  },
+  "crocodile": {
+    "level": 100,
+    "sets": [
+      {
+        "role": "Fast Attacker",
+        "movepool": [
+          "Sludge Wave",
+          "Sandsear Storm",
+          "Earth Power",
+          "Bleakwind Storm"
+        ],
+        "teraTypes": ["Grass"]
+      },
+      {
+        "role": "Wallbreaker",
+        "movepool": [
+          "Sludge Wave",
+          "Sandsear Storm",
+          "Earth Power",
+          "Bleakwind Storm",
+          "Scorching Sands",
+          "Toxic"
+        ],
+        "teraTypes": ["Grass"]
+      }
+    ]
+  },
+  "doflamingo": {
+    "level": 100,
+    "sets": [
+      {
+        "role": "Fast Support",
+        "movepool": [
+          "Defog",
+          "U-turn",
+          "Knock Off",
+          "Fire Lash",
+          "Dual Wingbeat",
+          "Spirit Break"
+        ],
+        "teraTypes": ["Flying"]
+      },
+      {
+        "role": "Fast Attacker",
+        "movepool": [
+          "Moonblast",
+          "Air Slash",
+          "Fiery Wrath",
+          "Overheat",
+          "U-turn",
+          "Knock Off",
+          "Fire Lash",
+          "Dual Wingbeat",
+          "Play Rough"
+        ],
+        "teraTypes": ["Flying"]
+      }
+    ]
+  },
+  "donkrieg": {
+    "level": 100,
+    "sets": [
+      {
+        "role": "Bulky Support",
+        "movepool": [
+          "Clear Smog",
+          "Explosion",
+          "Knock Off",
+          "Mortal Spin",
+          "Stealth Rock",
+          "Toxic",
+          "Toxic Spikes",
+          "Spiky Shield",
+          "Spikes"
+        ],
+        "teraTypes": ["Ground", "Water"]
+      }
+    ]
+  },
+  "enel": {
+    "level": 100,
+    "sets": [
+      {
+        "role": "Fast Attacker",
+        "movepool": [
+          "Discharge",
+          "Overheat",
+          "Thunderbolt",
+          "Volt Switch",
+          "Heat Wave",
+          "Thunder Wave",
+          "Moonblast"
+        ],
+        "teraTypes": ["Electric"]
+      },
+      {
+        "role": "Fast Support",
+        "movepool": [
+          "Discharge",
+          "Overheat",
+          "Thunderbolt",
+          "Volt Switch",
+          "Heat Wave",
+          "Thunder Wave",
+          "Moonlight",
+          "Moonblast"
+        ],
+        "teraTypes": ["Electric", "Water"]
+      }
+    ]
+  },
+  "franky": {
+    "level": 100,
+    "sets": [
+      {
+        "role": "Bulky Support",
+        "movepool": [
+          "Substitute",
+          "Protect",
+          "Spikes",
+          "Gigaton Hammer",
+          "Ice Punch",
+          "Fire Punch",
+          "Iron Head",
+          "Stealth Rock"
+        ],
+        "teraTypes": ["Flying", "Water"]
+      },
+      {
+        "role": "Bulky Attacker",
+        "movepool": [
+          "Substitute",
+          "Protect",
+          "Bullet Punch",
+          "Gigaton Hammer",
+          "Ice Punch",
+          "Fire Punch",
+          "Thunder Punch",
+          "Iron Head",
+          "Sucker Punch",
+          "Stealth Rock"
+        ],
+        "teraTypes": ["Flying", "Water"]
+      }
+    ]
+  },
+  "hodyjones": {
+    "level": 100,
+    "sets": [
+      {
+        "role": "Fast Bulky Setup",
+        "movepool": [
+          "Aqua Jet",
+          "Bulk Up",
+          "Close Combat",
+          "Crabhammer",
+          "Crunch",
+          "Mach Punch",
+          "Sucker Punch",
+          "Waterfall"
+        ],
+        "teraTypes": ["Ghost"]
+      }
+    ]
+  },
+  "jinbe": {
+    "level": 100,
+    "sets": [
+      {
+        "role": "Fast Bulky Setup",
+        "movepool": [
+          "Aqua Jet",
+          "Bulk Up",
+          "Close Combat",
+          "Darkest Lariat",
+          "Rage Fist",
+          "Wave Crash",
+          "Liquidation"
+        ],
+        "teraTypes": ["Grass"]
+      }
+    ]
+  },
+  "kaido": {
+    "level": 100,
+    "sets": [
+      {
+        "role": "Wallbreaker",
+        "movepool": [
+          "Behemoth Bash",
+          "Dragon Ascent",
+          "Raging Fury",
+          "Outrage"
+        ],
+        "teraTypes": ["Steel", "Dragon"]
+      },
+      {
+        "role": "Setup Sweeper",
+        "movepool": [
+          "Behemoth Bash",
+          "Dragon Ascent",
+          "Raging Fury",
+          "Dragon Dance",
+          "Dragon Claw",
+          "Outrage"
+        ],
+        "teraTypes": ["Steel"]
+      }
+    ]
+  },
+  "kidd": {
+    "level": 100,
+    "sets": [
+      {
+        "role": "Bulky Setup",
+        "movepool": [
+          "Iron Defense",
+          "Body Press",
+          "Ruination",
+          "Gigaton Hammer",
+          "Knock Off",
+          "Spikes"
+        ],
+        "teraTypes": ["Fighting", "Dark"]
+      },
+      {
+        "role": "Bulky Support",
+        "movepool": [
+          "Thunder Punch",
+          "Gigaton Hammer",
+          "Ruination",
+          "Superpower",
+          "Knock Off",
+          "Spikes"
+        ],
+        "teraTypes": ["Fighting", "Dark"]
+      },
+      {
+        "role": "Setup Sweeper",
+        "movepool": [
+          "Shift Gear",
+          "No Retreat",
+          "Superpower",
+          "Thunder Punch",
+          "Gigaton Hammer",
+          "Bullet Punch",
+          "Knock Off",
+          "Darkest Lariat"
+        ],
+        "teraTypes": ["Steel", "Fighting"]
+      }
+    ]
+  },
+  "kizaru": {
+    "level": 100,
+    "sets": [
+      {
+        "role": "Fast Support",
+        "movepool": [
+          "U-turn",
+          "Light Screen",
+          "Reflect",
+          "Thunderous Kick",
+          "Trop Kick",
+          "Axe Kick"
+        ],
+        "teraTypes": ["Electric", "Flying"]
+      },
+      {
+        "role": "Fast Attacker",
+        "movepool": [
+          "Blaze Kick",
+          "U-turn",
+          "High Jump Kick",
+          "Extreme Speed",
+          "Trop Kick",
+          "Low Kick"
+        ],
+        "teraTypes": ["Electric"]
+      }
+    ]
+  },
+  "law": {
+    "level": 100,
+    "sets": [
+      {
+        "role": "Fast Bulky Setup",
+        "movepool": [
+          "Calm Mind",
+          "Expanding Force",
+          "Dark Pulse",
+          "Bitter Malice"
+        ],
+        "teraTypes": ["Fighting", "Ghost", "Psychic"]
+      },
+      {
+        "role": "Setup Sweeper",
+        "movepool": [
+          "Nasty Plot",
+          "Calm Mind",
+          "Expanding Force",
+          "Dark Pulse",
+          "Psychic",
+          "Bitter Malice"
+        ],
+        "teraTypes": ["Fighting", "Ghost", "Psychic"]
+      },
+      {
+        "role": "Fast Support",
+        "movepool": [
+          "Ruination",
+          "Nasty Plot",
+          "Expanding Force",
+          "Dark Pulse",
+          "Psychic",
+          "Bitter Malice"
+        ],
+        "teraTypes": ["Fighting", "Ghost", "Psychic"]
+      }
+    ]
+  },
+  "lucci": {
+    "level": 100,
+    "sets": [
+      {
+        "role": "Wallbreaker",
+        "movepool": [
+          "Axe Kick",
+          "Super Fang",
+          "Ice Fang",
+          "Crunch",
+          "Rokuogan",
+          "Psychic Fangs"
+        ],
+        "teraTypes": ["Dark", "Fighting"]
+      },
+      {
+        "role": "Fast Attacker",
+        "movepool": [
+          "Axe Kick",
+          "Super Fang",
+          "Mach Punch",
+          "Ice Fang",
+          "Fire Fang",
+          "Rokuogan",
+          "Psychic Fangs"
+        ],
+        "teraTypes": ["Dark", "Fighting"]
+      }
+    ]
+  },
+  "luffy": {
+    "level": 100,
+    "sets": [
+      {
+        "role": "Setup Sweeper",
+        "movepool": [
+          "Shift Gear",
+          "Bulk Up",
+          "Substitute",
+          "Recover",
+          "Red Hawk",
+          "Close Combat",
+          "Drum Beating",
+          "Ice Punch",
+          "Thunder Punch",
+          "Sucker Punch",
+          "Drain Punch",
+          "Bullet Punch"
+        ],
+        "teraTypes": ["Dark", "Fighting"]
+      },
+      {
+        "role": "Fast Attacker",
+        "movepool": [
+          "Shift Gear",
+          "Recover",
+          "Red Hawk",
+          "Close Combat",
+          "Drum Beating",
+          "Ice Punch",
+          "Thunder Punch",
+          "Sucker Punch",
+          "Drain Punch",
+          "Mach Punch",
+          "Bullet Punch"
+        ],
+        "teraTypes": ["Dark", "Fighting"]
+      }
+    ]
+  },
+  "marco": {
+    "level": 100,
+    "sets": [
+      {
+        "role": "Bulky Support",
+        "movepool": [
+          "Defog",
+          "Roost",
+          "Tailwind",
+          "Will-O-Wisp",
+          "Brave Bird",
+          "Thunderous Kick",
+          "Hurricane",
+          "Flamethrower"
+        ],
+        "teraTypes": ["Ground", "Grass"]
+      }
+    ]
+  },
+  "mihawk": {
+    "level": 100,
+    "sets": [
+      {
+        "role": "Fast Attacker",
+        "movepool": [
+          "Behemoth Blade",
+          "Ceaseless Edge",
+          "Leaf Blade",
+          "Psycho Cut",
+          "Sacred Sword",
+          "Swords Dance",
+          "Bitter Blade",
+          "Stone Edge"
+        ],
+        "teraTypes": ["Ghost", "Steel", "Dark"]
+      },
+      {
+        "role": "Setup Sweeper",
+        "movepool": [
+          "Behemoth Blade",
+          "Leaf Blade",
+          "Psycho Cut",
+          "Sacred Sword",
+          "Swords Dance",
+          "Bitter Blade",
+          "Knock Off",
+          "Substitute",
+          "Stone Edge"
+        ],
+        "teraTypes": ["Ghost", "Steel", "Dark"]
+      }
+    ]
+  },
+  "nami": {
+    "level": 100,
+    "sets": [
+      {
+        "role": "Fast Support",
+        "movepool": [
+          "Defog",
+          "Volt Switch",
+          "Weather Ball",
+          "Will-O-Wisp",
+          "Thunder Wave",
+          "Tailwind",
+          "Hurricane",
+          "Thunder",
+          "Aurora Veil"
+        ],
+        "teraTypes": ["Steel"]
+      },
+      {
+        "role": "Fast Bulky Setup",
+        "movepool": [
+          "Volt Switch",
+          "Weather Ball",
+          "Will-O-Wisp",
+          "Thunder Wave",
+          "Nasty Plot",
+          "Heat Wave",
+          "Tailwind",
+          "Thunder",
+          "Hurricane",
+          "Aurora Veil"
+        ],
+        "teraTypes": ["Steel"]
+      }
+    ]
+  },
+  "robin": {
+    "level": 100,
+    "sets": [
+      {
+        "role": "Fast Support",
+        "movepool": [
+          "Taunt",
+          "Switcheroo",
+          "Memento",
+          "Foul Play",
+          "Knock Off",
+          "Sucker Punch",
+          "Spirit Break",
+          "Play Rough"
+        ],
+        "teraTypes": ["Ghost"]
+      },
+      {
+        "role": "Fast Bulky Setup",
+        "movepool": [
+          "Nasty Plot",
+          "Dazzling Gleam",
+          "Fleur Cannon",
+          "Fiery Wrath",
+          "Memento"
+        ],
+        "teraTypes": ["Ghost"]
+      }
+    ]
+  },
+  "sanji": {
+    "level": 100,
+    "sets": [
+      {
+        "role": "Fast Attacker",
+        "movepool": [
+          "Flare Blitz",
+          "High Jump Kick",
+          "Thunderous Kick",
+          "Detect",
+          "Will-O-Wisp",
+          "Trop Kick",
+          "Low Kick"
+        ],
+        "teraTypes": ["Fighting", "Fire", "Grass"]
+      },
+      {
+        "role": "Setup Sweeper",
+        "movepool": [
+          "Flare Blitz",
+          "High Jump Kick",
+          "Thunderous Kick",
+          "Detect",
+          "Bulk Up",
+          "Will-O-Wisp",
+          "Trop Kick",
+          "Low Kick"
+        ],
+        "teraTypes": ["Fighting", "Fire"]
+      }
+    ]
+  },
+  "shanks": {
+    "level": 100,
+    "sets": [
+      {
+        "role": "Fast Attacker",
+        "movepool": [
+          "Swords Dance",
+          "Aqua Cutter",
+          "Behemoth Blade",
+          "Detect",
+          "Bitter Blade",
+          "Precipice Blades",
+          "Psycho Cut",
+          "Sacred Sword",
+          "Leaf Blade",
+          "Night Slash"
+        ],
+        "teraTypes": ["Fighting", "Ghost"]
+      }
+    ]
+  },
+  "shiki": {
+    "level": 100,
+    "sets": [
+      {
+        "role": "Fast Bulky Setup",
+        "movepool": [
+          "Calm Mind",
+          "Earth Power",
+          "Mystical Power",
+          "Rock Polish",
+          "Roost",
+          "Power Gem"
+        ],
+        "teraTypes": ["Steel"]
+      },
+      {
+        "role": "Bulky Support",
+        "movepool": [
+          "Stealth Rock",
+          "Earth Power",
+          "Mystical Power",
+          "Grav Apple",
+          "Diamond Storm",
+          "Roost",
+          "Power Gem"
+        ],
+        "teraTypes": ["Steel"]
+      }
+    ]
+  },
+  "smoker": {
+    "level": 100,
+    "sets": [
+      {
+        "role": "Fast Support",
+        "movepool": [
+          "Toxic",
+          "Clear Smog",
+          "Defog",
+          "White Out",
+          "Bleakwind Storm",
+          "Drain Punch",
+          "Focus Blast",
+          "Fire Punch",
+          "Sludge Bomb"
+        ],
+        "teraTypes": ["Steel", "Ground"]
+      }
+    ]
+  },
+  "urouge": {
+    "level": 100,
+    "sets": [
+      {
+        "role": "Bulky Support",
+        "movepool": [
+          "Stealth Rock",
+          "Protect",
+          "Pain Split",
+          "Morning Sun",
+          "Seismic Toss",
+          "Drain Punch",
+          "Rock Slide"
+        ],
+        "teraTypes": ["Steel", "Grass"]
+      },
+      {
+        "role": "Bulky Attacker",
+        "movepool": [
+          "Stealth Rock",
+          "Protect",
+          "Pain Split",
+          "Morning Sun",
+          "Bulk Up",
+          "Head Smash",
+          "Drain Punch",
+          "Mach Punch",
+          "Play Rough",
+          "Wild Charge",
+          "Wood Hammer",
+          "Rock Slide"
+        ],
+        "teraTypes": ["Steel", "Grass"]
+      },
+      {
+        "role": "Bulky Setup",
+        "movepool": [
+          "Morning Sun",
+          "Bulk Up",
+          "Body Press",
+          "Substitute",
+          "Protect",
+          "No Retreat",
+          "Head Smash",
+          "Drain Punch",
+          "Mach Punch",
+          "Play Rough",
+          "Wild Charge",
+          "Wood Hammer",
+          "Rock Slide"
+        ],
+        "teraTypes": ["Steel", "Grass"]
+      }
+    ]
+  },
+  "usopp": {
+    "level": 100,
+    "sets": [
+      {
+        "role": "Fast Support",
+        "movepool": [
+          "Parting Shot",
+          "Clear Smog",
+          "Leech Seed",
+          "Silk Trap",
+          "Sleep Powder",
+          "Spikes",
+          "Stealth Rock",
+          "Sticky Web",
+          "Flower Trick",
+          "U-turn",
+          "Stun Spore"
+        ],
+        "teraTypes": ["Water"]
+      }
+    ]
+  },
+  "vivi": {
+    "level": 100,
+    "sets": [
+      {
+        "role": "Setup Sweeper",
+        "movepool": [
+          "Quiver Dance",
+          "Air Slash",
+          "Fiery Dance",
+          "Surf",
+          "Draining Kiss",
+          "Dazzling Gleam"
+        ],
+        "teraTypes": ["Water"]
+      }
+    ]
+  },
+  "wapol": {
+    "level": 100,
+    "sets": [
+      {
+        "role": "Bulky Support",
+        "movepool": [
+          "Aurora Veil",
+          "Chilly Reception",
+          "Body Slam",
+          "Gyro Ball",
+          "Stealth Rock",
+          "Ice Hammer",
+          "Ice Shard"
+        ],
+        "teraTypes": ["Fairy"]
+      },
+      {
+        "role": "Bulky Setup",
+        "movepool": [
+          "Body Press",
+          "Iron Defense",
+          "Body Slam",
+          "Gyro Ball",
+          "Stealth Rock",
+          "Ice Hammer",
+          "Ice Shard"
+        ],
+        "teraTypes": ["Fairy"]
+      }
+    ]
+  },
+  "xdrake": {
+    "level": 100,
+    "sets": [
+      {
+        "role": "Setup Sweeper",
+        "movepool": [
+          "Dragon Dance",
+          "Head Smash",
+          "Stone Axe",
+          "Dragon Claw",
+          "Axe Kick",
+          "Night Slash",
+          "Rock Polish",
+          "Stone Edge"
+        ],
+        "teraTypes": ["Dragon", "Ghost"]
+      }
+    ]
+  },
+  "zoro": {
+    "level": 100,
+    "sets": [
+      {
+        "role": "Fast Attacker",
+        "movepool": [
+          "Swords Dance",
+          "Bulk Up",
+          "Oni Giri",
+          "Bitter Blade",
+          "Behemoth Blade",
+          "Sacred Sword",
+          "Psycho Cut",
+          "Leaf Blade"
+        ],
+        "teraTypes": ["Fairy", "Steel"]
+      },
+      {
+        "role": "Fast Bulky Setup",
+        "movepool": [
+          "Ceaseless Edge",
+          "Bulk Up",
+          "Oni Giri",
+          "Bitter Blade",
+          "Behemoth Blade",
+          "Sacred Sword",
+          "Psycho Cut",
+          "Knock Off",
+          "Leaf Blade"
+        ],
+        "teraTypes": ["Fairy", "Steel"]
+      },
+      {
+        "role": "Setup Sweeper",
+        "movepool": [
+          "Swords Dance",
+          "Oni Giri",
+          "Bitter Blade",
+          "Behemoth Blade",
+          "Sacred Sword",
+          "Knock Off"
+        ],
+        "teraTypes": ["Fairy", "Steel"]
+      }
+    ]
   }
 }

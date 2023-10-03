@@ -714,6 +714,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			knockoff: ["9L1"],
 			magnetrise: ["9L1"],
 			magneticflux: ["9L1"],
+			spikes: ["9L1"],
 		},
 	},
 	buggy: {
