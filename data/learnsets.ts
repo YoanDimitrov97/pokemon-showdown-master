@@ -811,7 +811,6 @@ export const Learnsets: { [speciesid: string]: LearnsetData } = {
 		learnset: {
 			slash: ["9L1"],
 			airslash: ["9L1"],
-			nightslash: ["9L1"],
 			cut: ["9L1"],
 			psychocut: ["9L1"],
 			aquacutter: ["9L1"],
