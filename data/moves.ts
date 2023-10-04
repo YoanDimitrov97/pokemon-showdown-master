@@ -23725,7 +23725,7 @@ export const Moves: { [moveid: string]: MoveData } = {
 		basePower: 130,
 		category: "Physical",
 		name: "Diable Jambe",
-		shortDesc:"User is hurt by 50% of its max HP if it misses.",
+		shortDesc: "User is hurt by 50% of its max HP if it misses.",
 		pp: 10,
 		priority: 0,
 		flags: { contact: 1, protect: 1, mirror: 1, gravity: 1 },
@@ -23742,6 +23742,32 @@ export const Moves: { [moveid: string]: MoveData } = {
 		target: "normal",
 		type: "Fire",
 		contestType: "Cool",
+	},
+	threenotchesslash: {
+		num: 1019,
+		accuracy: 100,
+		basePower: 80,
+		category: "Physical",
+		name: "Three Notches Slash",
+		shortDesc: "20% chance to induce freeze, paralyze or sleep.",
+		pp: 10,
+		priority: 0,
+		flags: { contact: 1, protect: 1, mirror: 1 },
+		secondary: {
+			chance: 20,
+			onHit(target, source) {
+				const result = this.random(3);
+				if (result === 0) {
+					target.trySetStatus("frz", source);
+				} else if (result === 1) {
+					target.trySetStatus("par", source);
+				} else {
+					target.trySetStatus("slp", source);
+				}
+			},
+		},
+		target: "normal",
+		type: "Ghost",
 	},
 	sharkdarts: {
 		num: 1024,
@@ -23779,6 +23805,39 @@ export const Moves: { [moveid: string]: MoveData } = {
 		target: "allAdjacentFoes",
 		type: "Psychic",
 		contestType: "Cool",
+	},
+	yoru: {
+		num: 1035,
+		accuracy: 100,
+		basePower: 85,
+		category: "Physical",
+		name: "Yoru",
+		shortDesc: "High critical hit ratio.",
+		pp: 10,
+		priority: 0,
+		flags: { contact: 1, protect: 1, mirror: 1, slicing: 1 },
+		critRatio: 2,
+		secondary: null,
+		target: "normal",
+		type: "Dark",
+		contestType: "Cool",
+	},
+	raigou: {
+		num: 1036,
+		accuracy: 85,
+		basePower: 120,
+		category: "Special",
+		name: "Raigou",
+		pp: 5,
+		priority: 0,
+		flags: { protect: 1, mirror: 1 },
+		secondary: {
+			chance: 10,
+			status: "par",
+		},
+		target: "normal",
+		type: "Electric",
+		contestType: "Beautiful",
 	},
 	firefist: {
 		num: 1037,
@@ -23824,6 +23883,27 @@ export const Moves: { [moveid: string]: MoveData } = {
 		type: "Flying",
 		contestType: "Tough",
 	},
+	honestyimpact: {
+		num: 1040,
+		accuracy: 100,
+		basePower: 120,
+		category: "Physical",
+		name: "Honesty Impact",
+		shortDesc: "Lowers the user's Attack and Defense by 1.",
+		pp: 5,
+		priority: 0,
+		flags: { contact: 1, protect: 1, mirror: 1 },
+		self: {
+			boosts: {
+				atk: -1,
+				def: -1,
+			},
+		},
+		secondary: null,
+		target: "normal",
+		type: "Fairy",
+		contestType: "Tough",
+	},
 	rokuogan: {
 		num: 1041,
 		accuracy: 100,
@@ -23839,6 +23919,22 @@ export const Moves: { [moveid: string]: MoveData } = {
 		secondary: null,
 		target: "normal",
 		type: "Dark",
+		contestType: "Cool",
+	},
+	yatanokagami: {
+		num: 1043,
+		accuracy: 100,
+		basePower: 70,
+		category: "Physical",
+		name: "Yata no Kagami",
+		shortDesc: "User switches out after damaging the target.",
+		pp: 20,
+		priority: 0,
+		flags: { contact: 1, protect: 1, mirror: 1 },
+		selfSwitch: true,
+		secondary: null,
+		target: "normal",
+		type: "Electric",
 		contestType: "Cool",
 	},
 	hellhound: {
@@ -23857,6 +23953,24 @@ export const Moves: { [moveid: string]: MoveData } = {
 		},
 		target: "allAdjacent",
 		type: "Fire",
+		contestType: "Tough",
+	},
+	thunderbagua: {
+		num: 1049,
+		accuracy: 90,
+		basePower: 90,
+		category: "Physical",
+		name: "Thunder Bagua",
+		shortDesc: "10% chance to paralyze the target.",
+		pp: 10,
+		priority: 0,
+		flags: { protect: 1, mirror: 1, contact:1 },
+		secondary: {
+			chance: 10,
+			status: "par",
+		},
+		target: "normal",
+		type: "Electric",
 		contestType: "Tough",
 	},
 };

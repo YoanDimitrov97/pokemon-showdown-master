@@ -236,7 +236,7 @@
           "Knock Off",
           "Shadow Sneak",
           "Swords Dance",
-          "Spirit Shackle"
+          "Three Notches Slash"
         ],
         "teraTypes": ["Ghost", "Dark"]
       },
@@ -248,7 +248,7 @@
           "Knock Off",
           "Shadow Sneak",
           "Swords Dance",
-          "Spirit Shackle",
+          "Three Notches Slash",
           "Destiny Bond",
           "Memento"
         ],
@@ -335,6 +335,7 @@
           "Drain Punch",
           "Fire Punch",
           "Play Rough",
+          "Honesty Impact",
           "Thunder Punch"
         ],
         "teraTypes": ["Steel"]
@@ -431,6 +432,7 @@
           "Thunderbolt",
           "Volt Switch",
           "Heat Wave",
+          "Raigou",
           "Thunder Wave",
           "Moonblast"
         ],
@@ -444,6 +446,7 @@
           "Thunderbolt",
           "Volt Switch",
           "Heat Wave",
+          "Raigou",
           "Thunder Wave",
           "Moonlight",
           "Moonblast"
@@ -530,7 +533,8 @@
       {
         "role": "Wallbreaker",
         "movepool": [
-          "Behemoth Bash",
+          "Iron Head",
+          "Thunder Bagua",
           "Dragon Ascent",
           "Raging Fury",
           "Outrage"
@@ -540,8 +544,8 @@
       {
         "role": "Setup Sweeper",
         "movepool": [
-          "Behemoth Bash",
           "Dragon Ascent",
+          "Thunder Bagua",
           "Raging Fury",
           "Dragon Dance",
           "Dragon Claw",
@@ -601,6 +605,7 @@
         "role": "Fast Support",
         "movepool": [
           "U-turn",
+          "Yata no Kagami",
           "Light Screen",
           "Reflect",
           "Thunderous Kick",
@@ -613,6 +618,7 @@
         "role": "Fast Attacker",
         "movepool": [
           "Blaze Kick",
+          "Yata no Kagami",
           "U-turn",
           "High Jump Kick",
           "Extreme Speed",
@@ -764,7 +770,7 @@
           "Sacred Sword",
           "Swords Dance",
           "Bitter Blade",
-          "Stone Edge"
+          "Yoru"
         ],
         "teraTypes": ["Ghost", "Steel", "Dark"]
       },
@@ -777,9 +783,8 @@
           "Sacred Sword",
           "Swords Dance",
           "Bitter Blade",
-          "Knock Off",
           "Substitute",
-          "Stone Edge"
+          "Yoru"
         ],
         "teraTypes": ["Ghost", "Steel", "Dark"]
       }
@@ -893,7 +898,6 @@
           "Aqua Cutter",
           "Behemoth Blade",
           "Detect",
-          "Bitter Blade",
           "Precipice Blades",
           "Psycho Cut",
           "Sacred Sword",

@@ -19812,7 +19812,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		name: "Kaido",
 		types: ["Dragon"],
 		gender: "M",
-		baseStats: { hp: 122, atk: 140, def: 100, spa: 110, spd: 90, spe: 85 },
+		baseStats: { hp: 115, atk: 140, def: 100, spa: 110, spd: 90, spe: 85 },
 		abilities: { 0: "Pressure", 1: "Multiscale"},
 		heightm: 6.98,
 		weightkg: 556,
