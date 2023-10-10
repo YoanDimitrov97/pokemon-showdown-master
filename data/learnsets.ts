@@ -646,6 +646,7 @@ export const Learnsets: { [speciesid: string]: LearnsetData } = {
 	law: {
 		learnset: {
 			cut: ["9L1"],
+			room: ["9L1"],
 			psychocut: ["9L1"],
 			allyswitch: ["9L1"],
 			calmmind: ["9L1"],
@@ -1038,6 +1039,7 @@ export const Learnsets: { [speciesid: string]: LearnsetData } = {
 	aokiji: {
 		learnset: {
 			aurorabeam: ["9L1"],
+			iceage: ["9L1"],
 			avalanche: ["9L1"],
 			blizzard: ["9L1"],
 			chillyreception: ["9L1"],
@@ -1209,6 +1211,7 @@ export const Learnsets: { [speciesid: string]: LearnsetData } = {
 	bigmom: {
 		learnset: {
 			chargebeam: ["9L1"],
+			soulpocus: ["9L1"],
 			hyperbeam: ["9L1"],
 			meteorbeam: ["9L1"],
 			solarbeam: ["9L1"],

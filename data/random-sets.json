@@ -62,8 +62,18 @@
           "Kowtow Cleave",
           "Triple Arrows",
           "Ice Shard",
-          "Glacial Lance",
-          "Facade"
+          "Glacial Lance"
+        ],
+        "teraTypes": ["Fairy", "Water", "Ice"]
+      },
+      {
+        "role": "Fast Attacker",
+        "movepool": [
+          "Kowtow Cleave",
+          "Triple Arrows",
+          "Ice Shard",
+          "Ice Age",
+          "Glacial Lance"
         ],
         "teraTypes": ["Fairy", "Water", "Ice"]
       }
@@ -162,6 +172,7 @@
           "Dynamax Cannon",
           "Flash Cannon",
           "Fleur Cannon",
+          "Soul Pocus",
           "Thunderbolt"
         ],
         "teraTypes": ["Steel", "Ghost"]
@@ -173,7 +184,7 @@
           "Flamethrower",
           "Dynamax Cannon",
           "Flash Cannon",
-          "Fleur Cannon",
+          "Soul Pocus",
           "Thunderbolt",
           "Acid Armor",
           "Protect"
@@ -638,6 +649,7 @@
           "Calm Mind",
           "Expanding Force",
           "Dark Pulse",
+          "ROOM~!",
           "Bitter Malice"
         ],
         "teraTypes": ["Fighting", "Ghost", "Psychic"]
@@ -646,6 +658,7 @@
         "role": "Setup Sweeper",
         "movepool": [
           "Nasty Plot",
+          "ROOM~!",
           "Calm Mind",
           "Expanding Force",
           "Dark Pulse",
@@ -658,6 +671,7 @@
         "role": "Fast Support",
         "movepool": [
           "Ruination",
+          "ROOM~!",
           "Nasty Plot",
           "Expanding Force",
           "Dark Pulse",
