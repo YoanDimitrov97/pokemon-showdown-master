@@ -24032,4 +24032,93 @@ export const Moves: { [moveid: string]: MoveData } = {
 		type: "Electric",
 		contestType: "Tough",
 	},
+	gravitymeteor: {
+		num: 1052,
+		accuracy: 90,
+		basePower: 130,
+		category: "Special",
+		name: "Gravity Meteor",
+		shortDesc: "Lowers the user's Sp. Atk by 2.",
+		pp: 5,
+		priority: 0,
+		flags: { protect: 1, mirror: 1 },
+		self: {
+			boosts: {
+				spa: -2,
+			},
+		},
+		secondary: null,
+		target: "normal",
+		type: "Psychic",
+		contestType: "Beautiful",
+	},
+	ursusshock: {
+		num: 1053,
+		accuracy: 100,
+		basePower: 60,
+		category: "Special",
+		name: "Ursus Shock",
+		pp: 5,
+		priority: 0,
+		flags: { protect: 1, reflectable: 1, mirror: 1, bypasssub: 1 },
+		onHit(target, source, move) {
+			let success = false;
+			if (!target.volatiles["substitute"] || move.infiltrates)
+				success = !!this.boost({ evasion: -1 });
+			const removeTarget = [
+				"reflect",
+				"lightscreen",
+				"auroraveil",
+				"safeguard",
+				"mist",
+				"spikes",
+				"toxicspikes",
+				"stealthrock",
+				"stickyweb",
+				"gmaxsteelsurge",
+			];
+			const removeAll = [
+				"spikes",
+				"toxicspikes",
+				"stealthrock",
+				"stickyweb",
+				"gmaxsteelsurge",
+			];
+			for (const targetCondition of removeTarget) {
+				if (target.side.removeSideCondition(targetCondition)) {
+					if (!removeAll.includes(targetCondition)) continue;
+					this.add(
+						"-sideend",
+						target.side,
+						this.dex.conditions.get(targetCondition).name,
+						"[from] move: Defog",
+						"[of] " + source
+					);
+					success = true;
+				}
+			}
+			for (const sideCondition of removeAll) {
+				if (source.side.removeSideCondition(sideCondition)) {
+					this.add(
+						"-sideend",
+						source.side,
+						this.dex.conditions.get(sideCondition).name,
+						"[from] move: Defog",
+						"[of] " + source
+					);
+					success = true;
+				}
+			}
+			this.field.clearTerrain();
+			return success;
+		},
+		secondary: {
+			chance: 100,
+			boosts: {
+				spd: -1,
+			},
+		},
+		target: "normal",
+		type: "Flying",
+	},
 };

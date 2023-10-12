@@ -218,7 +218,6 @@
           "Flash Cannon",
           "Wicked Blow",
           "Body Slam",
-          "Fake Out",
           "Foul Play"
         ],
         "teraTypes": ["Ghost"]
@@ -958,7 +957,6 @@
       {
         "role": "Fast Support",
         "movepool": [
-          "Toxic",
           "Clear Smog",
           "Defog",
           "White Out",
