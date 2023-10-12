@@ -1159,5 +1159,82 @@
         "teraTypes": ["Fairy", "Steel"]
       }
     ]
+  },
+  "whitebeard": {
+    "level": 100,
+    "sets": [
+      {
+        "role": "Bulky Support",
+        "movepool": [
+          "Earthquake",
+          "Superpower",
+          "Stealth Rock",
+          "Protect",
+          "Rest",
+          "Sleep Talk"
+        ],
+        "teraTypes": ["Water", "Grass"]
+      },
+      {
+        "role": "Bulky Setup",
+        "movepool": [
+          "Earthquake",
+          "Superpower",
+          "Belly Drum",
+          "Protect",
+          "Rock Slide"
+        ],
+        "teraTypes": ["Water", "Grass"]
+      }
+    ]
+  },
+  "fujitora": {
+    "level": 100,
+    "sets": [
+      {
+        "role": "Fast Attacker",
+        "movepool": [
+          "Draco Meteor",
+          "Gravity Meteor",
+          "Psychic",
+          "Focus Blast",
+          "Court Change",
+          "Grav Apple"
+        ],
+        "teraTypes": ["Steel"]
+      },
+      {
+        "role": "AV Pivot",
+        "movepool": [
+          "Draco Meteor",
+          "Gravity Meteor",
+          "Psychic",
+          "Focus Blast",
+          "Air Slash",
+          "Grav Apple"
+        ],
+        "teraTypes": ["Steel"]
+      }
+    ]
+  },
+  "kuma": {
+    "level": 100,
+    "sets": [
+      {
+        "role": "Bulky Support",
+        "movepool": [
+          "Stealth Rock",
+          "Spikes",
+          "Protect",
+          "Ursus Shock",
+          "Doom Desire",
+          "Explosion",
+          "Psyshock",
+          "Iron Head",
+          "Teleport"
+        ],
+        "teraTypes": ["Flying"]
+      }
+    ]
   }
 }
