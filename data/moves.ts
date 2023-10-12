@@ -24058,6 +24058,7 @@ export const Moves: { [moveid: string]: MoveData } = {
 		basePower: 60,
 		category: "Special",
 		name: "Ursus Shock",
+		shortDesc: "Target Sp. Def -1 and removes Hazards",
 		pp: 5,
 		priority: 0,
 		flags: { protect: 1, reflectable: 1, mirror: 1, bypasssub: 1 },
