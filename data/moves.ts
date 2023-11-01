@@ -23812,6 +23812,7 @@ export const Moves: { [moveid: string]: MoveData } = {
 		basePower: 0,
 		category: "Status",
 		name: "ROOM~!",
+		shortDesc: "Forces target to switch, then user switches.",
 		pp: 5,
 		priority: 0,
 		flags: {
